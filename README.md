@@ -26,7 +26,7 @@ npm install
 ```
 4. 啟動專案
 ```
-npm run dev
+nodemon app.js
 ```
 5. 出現以下訊息後，即可在 http://localhost:3000 開始使用
 ```
