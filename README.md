@@ -14,11 +14,11 @@
 
 1. 在終端機輸入指令 Clone 此專案至本機電腦
 ```
-git clone https://github.com/Whaleep/trash-talk-generator.git
+git clone https://github.com/NokoDOjo/ShitTalk_Generator.git
 ```
 2. 進入專案目錄
 ```
-cd trash-talk-generator
+cd ShitTalk_Generator
 ```
 3. 安裝相關套件
 ```
